@@ -1,0 +1,9 @@
+---
+Suite
+---
+!1 Test suite ${PAGE_NAME}
+
+This is exercises different traffic light states.
+
+----
+!contents -R2 -g -p -f -h
