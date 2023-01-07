@@ -7,8 +7,8 @@ Test
 
 !|Traffic Lights				|
 |previous state	|next state?	|
-|red			|red, yellow	|
-|red, yellow	|green			|
+|red			|red_yellow	|
+|red_yellow		|green			|
 |green			|yellow			|
 |yellow			|red			|
 |invalid state	|yellow blink	|
@@ -16,4 +16,5 @@ Test
 
 
 !define TEST_SYSTEM {slim}
+!path target/classes
 !path target/test-classes
