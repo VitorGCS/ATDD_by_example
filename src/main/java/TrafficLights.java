@@ -1,6 +1,6 @@
 public class TrafficLights {
 
-    private String state;
+/*    private String state;
 
     public void setPreviousState(String state){
         this.state = state;
@@ -16,5 +16,5 @@ public class TrafficLights {
        if("yellow".equals(state))
            return "red";
        return "yellow blink";
-   }
+   }*/
 }
