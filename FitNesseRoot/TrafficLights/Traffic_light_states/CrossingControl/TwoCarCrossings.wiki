@@ -1,10 +1,13 @@
 ---
 Test
 ---
-
 !| FirstLightSwitchingCrossingController            |
 |first light|second light|first light?|second light?|
 |green      |red         |yellow      |red          |
+|yellow     |red         |red         |red          |
+|red_yellow |red         |green       |red          |
+|red        |red         |red_yellow  |red          |
+
 
 
 !define TEST_SYSTEM {slim}

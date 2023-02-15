@@ -3,15 +3,18 @@ package org.trafficlights.test.acceptance;
 import org.trafficlights.domain.LightState;
 
 public class FirstLightSwitchingCrossingController {
-    public void setFirstLight(LightState state){
 
+    LightState firstState;
+
+    public void setFirstLight(LightState state){
+        firstState = state;
     }
     public void setSecondLight(LightState state){
 
     }
 
     public LightState firstLight(){
-        return LightState.YELLOW;
+        return firstState.next();
     }
 
     public LightState secondLight() {
