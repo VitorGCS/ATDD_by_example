@@ -1,17 +1,14 @@
 ---
 Test
 ---
-!|import							|
-|org.trafficlights.test.acceptance	|
 
-
-!|Traffic Lights				|
-|previous state	|next state?	|
-|red			|red_yellow	|
-|red_yellow		|green			|
-|green			|yellow			|
-|yellow			|red			|
-|invalid state	|yellow blink	|
+!|Traffic Lights            |
+|previous state|next state? |
+|red           |red_yellow  |
+|red_yellow    |green       |
+|green         |yellow      |
+|yellow        |red         |
+|invalid state |yellow blink|
 
 
 

@@ -1,0 +1,5 @@
+This set up page is executed once, before any tests in this suite.
+An [[import table][.FitNesse.UserGuide.WritingAcceptanceTests.SliM.ImportTable]] defines which Java packages may contain fixture classes.
+
+!|import                          |
+|org.trafficlights.test.acceptance|

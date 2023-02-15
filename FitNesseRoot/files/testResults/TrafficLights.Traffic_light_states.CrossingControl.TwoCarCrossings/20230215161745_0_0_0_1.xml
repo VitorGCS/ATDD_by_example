@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20221219</FitNesseVersion>
+  <rootPath>TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings</rootPath>
+  <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>2</exceptions>
+    </counts>
+    <date>2023-02-15T16:17:45Z</date>
+    <runTimeInMillis>1</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td class="error"&gt;import&lt;hr/&gt; &lt;span class="fit_label"&gt;Could not find fixture: import.&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;org.trafficlights.test.acceptance&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="4" class="error"&gt;FirstLightSwitchingCrossingController&lt;hr/&gt; &lt;span class="fit_label"&gt;Could not find fixture: FirstLightSwitchingCrossingController.&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;first light&lt;/td&gt;
+		&lt;td&gt;second light&lt;/td&gt;
+		&lt;td&gt;first light?&lt;/td&gt;
+		&lt;td&gt;second light?&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;green&lt;/td&gt;
+		&lt;td&gt;red&lt;/td&gt;
+		&lt;td&gt;yellow&lt;/td&gt;
+		&lt;td&gt;red&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>TwoCarCrossings</relativePageName>
+  </result>
+  <executionLog>
+    <testSystem>fit:fit.FitServer</testSystem>
+    <command>/usr/lib/jvm/java-17-oracle/bin/java -cp /home/vitor/DevProjects/books/ATDD/ATTDD_by_example/fitnesse-standalone.jar fit.FitServer vitor-HP-EliteBook-840-G6 44045 3863</command>
+    <exitCode>2</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>303</totalRunTimeInMillis>
+</testResults>
+

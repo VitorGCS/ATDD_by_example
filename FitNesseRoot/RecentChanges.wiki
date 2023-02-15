@@ -1,4 +1,8 @@
-|TrafficLights.Traffic_light_states.CarTrafficStates||17:16:29 Sat, Jan 07, 2023|
+|TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings||16:35:44 quarta, fev 15, 2023|
+|TrafficLights.Traffic_light_states.CarTrafficStates||16:35:19 quarta, fev 15, 2023|
+|TrafficLights.SetUp||16:34:50 quarta, fev 15, 2023|
+|TrafficLights.Traffic_light_states.SetUP||16:33:51 quarta, fev 15, 2023|
+|TrafficLights.Traffic_light_states.CrossingControl||16:11:24 quarta, fev 15, 2023|
 |TrafficLights.Traffic_light_states||18:56:41 Mon, Jan 02, 2023|
 |TrafficLights||18:55:48 Mon, Jan 02, 2023|
 |FrontPage||18:54:39 Mon, Jan 02, 2023|
