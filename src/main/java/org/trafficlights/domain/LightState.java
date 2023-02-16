@@ -6,7 +6,7 @@ public enum LightState {
             return RED_YELLOW;
         }
     },
-    RED_YELLOW("red_yellow"){
+    RED_YELLOW("red, yellow"){
         public LightState next(){
             return GREEN;
         }

@@ -5,10 +5,9 @@ Test
 |first light|second light|first light?|second light?|
 |green      |red         |yellow      |red          |
 |yellow     |red         |red         |red          |
-|red_yellow |red         |green       |red          |
-|red        |red         |red_yellow  |red          |
-
-
+|red, yellow|red         |green       |red          |
+|red        |red         |red, yellow |red          |
+|green      |red yellow  |yellow blink|yellow blink |
 
 !define TEST_SYSTEM {slim}
 !path target/classes
