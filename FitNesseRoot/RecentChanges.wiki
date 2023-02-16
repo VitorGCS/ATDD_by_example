@@ -1,4 +1,4 @@
-|TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings||10:38:16 Thu, Feb 16, 2023|
+|TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings||10:56:37 Thu, Feb 16, 2023|
 |TrafficLights.Traffic_light_states.CarTrafficStates||10:37:50 Thu, Feb 16, 2023|
 |TrafficLights.SetUp||16:34:50 quarta, fev 15, 2023|
 |TrafficLights.Traffic_light_states.SetUP||16:33:51 quarta, fev 15, 2023|
