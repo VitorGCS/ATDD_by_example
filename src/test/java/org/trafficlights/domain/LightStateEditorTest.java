@@ -41,7 +41,7 @@ public class LightStateEditorTest {
 
     static Stream<Arguments> getArgs(){
         return Stream.of( Arguments.of( "red", RED),
-                Arguments.of("red_yellow", RED_YELLOW),
+                Arguments.of("red, yellow", RED_YELLOW),
                 Arguments.of("green", GREEN),
                 Arguments.of("yellow", YELLOW),
                 Arguments.of("yellow blink", UNKNOWN),

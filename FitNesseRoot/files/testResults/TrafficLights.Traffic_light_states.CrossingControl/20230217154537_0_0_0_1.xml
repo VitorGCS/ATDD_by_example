@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20220815</FitNesseVersion>
+  <rootPath>TrafficLights.Traffic_light_states.CrossingControl</rootPath>
+  <pageHistoryReference>
+    <name>TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings</name>
+    <date>2023-02-17T15:45:37Z</date>
+    <pageHistoryLink>TrafficLights.Traffic_light_states.CrossingControl.TwoCarCrossings?pageHistory&amp;resultDate=20230217154537</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>98</exceptions>
+    </counts>
+    <runTimeInMillis>177</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp target/classes:target/test-classes:/home/dev/devProjects/books/ATDD/traffic_light/fitnesse-standalone.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>446</totalRunTimeInMillis>
+</suiteResults>
+
