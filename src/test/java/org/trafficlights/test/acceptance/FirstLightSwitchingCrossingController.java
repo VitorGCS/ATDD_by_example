@@ -23,6 +23,10 @@ public class FirstLightSwitchingCrossingController {
     }
 
     public void execute(){
+        switchFirstLight();
+    }
+
+    public void switchFirstLight() {
         if(!isValidLightStateConfiguration()){
             warningConfiguration();
             return;
